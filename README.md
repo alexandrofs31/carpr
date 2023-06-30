@@ -1,2 +1,2 @@
 # Previsão de Preços de Carros Usados
-- Usando um algoritmo simples de AI, é possível prever o valor aproximado do veículo a ser analisado.
+- Usando algoritmos de Machine Learning, como random forest e decision tree, é possível prever o valor aproximado do veículo a ser analisado.
